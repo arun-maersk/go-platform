@@ -1,6 +1,6 @@
 # Go Workspace
 
-This tutorial is for how to add multiple module in a single workspace module
+Add multiple module in a single workspace
 
 #### Folder Structure
 
